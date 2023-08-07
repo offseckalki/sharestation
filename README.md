@@ -1,3 +1,4 @@
+![ShareStation Logo](https://github.com/offseckalki/sharestation/blob/main/share-station-low-resolution-logo-color-on-transparent-background.png)
 # ShareStation: Multi-Device File Sharing App
 
 ShareStation is your go-to app for hassle-free file sharing among multiple devices. Whether you're collaborating with colleagues or sharing memories with friends, ShareStation makes it easy to transfer files over Wi-Fi or hotspot connections. Plus, with ShareStation's unique local server feature, you can share files with non-Android devices on the same network!
